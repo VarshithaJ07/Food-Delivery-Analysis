@@ -1,0 +1,51 @@
+order_id,restaurant,cuisine_type,distance_km,delivery_time_mins,rating,day_of_week,weather_condition,latitude,longitude
+1,Pizza Hut,Italian,2.5,25,4,Weekday,Sunny,12.9716,77.5946
+2,Sushi Palace,Japanese,5.1,45,3,Weekend,Rainy,12.9352,77.6245
+3,Burger King,Fast Food,1.2,20,5,Weekday,Sunny,12.9638,77.5861
+4,Taco Bell,Mexican,3.0,35,4,Weekend,Cloudy,12.9784,77.6408
+5,Curry House,Indian,4.2,50,2,Weekday,Rainy,12.9279,77.6271
+6,Noodle Bar,Chinese,2.8,28,5,Weekday,Sunny,12.9666,77.5873
+7,Steakhouse,American,6.0,60,1,Weekend,Rainy,12.9143,77.5967
+8,Sandwich Cafe,Fast Food,1.5,18,5,Weekday,Cloudy,12.9753,77.5928
+9,Ramen Shop,Japanese,3.5,40,3,Weekend,Sunny,12.9419,77.6199
+10,BBQ Grill,American,5.5,55,2,Weekday,Rainy,12.9237,77.6105
+11,Pasta Place,Italian,2.0,22,4,Weekend,Cloudy,12.9682,77.5940
+12,Fried Chicken,Fast Food,1.8,19,5,Weekday,Sunny,12.9730,77.5932
+13,Thai Orchid,Thai,4.5,48,3,Weekend,Rainy,12.9324,77.6167
+14,Burrito Bar,Mexican,3.2,33,4,Weekday,Sunny,12.9775,77.6321
+15,Deli Corner,Fast Food,1.0,15,5,Weekend,Cloudy,12.9745,77.5920
+16,Seafood Shack,Seafood,7.0,70,1,Weekday,Rainy,12.9088,77.5814
+17,Vegetarian Cafe,Healthy,2.3,24,4,Weekend,Sunny,12.9651,77.5949
+18,Dim Sum,Chinese,4.0,42,3,Weekday,Cloudy,12.9376,77.6142
+19,Pancake House,American,3.7,38,4,Weekend,Sunny,12.9517,77.5978
+20,Kebab Stand,Middle Eastern,2.7,26,5,Weekday,Sunny,12.9699,77.5939
+21,Subway,Fast Food,1.3,17,5,Weekday,Sunny,12.9721,77.5952
+22,McDonald's,Fast Food,1.6,19,4,Weekend,Cloudy,12.9705,77.5883
+23,Dominos,Italian,2.1,23,4,Weekday,Rainy,12.9678,77.5894
+24,China Garden,Chinese,3.8,39,3,Weekend,Sunny,12.9432,77.6211
+25,Masala Dosa,Indian,0.8,12,5,Weekday,Sunny,12.9760,77.5915
+26,Olive Garden,Italian,4.5,47,3,Weekend,Rainy,12.9298,77.6183
+27,Shake Shack,American,2.9,30,4,Weekday,Cloudy,12.9624,77.5829
+28,The Biryani House,Indian,3.3,34,4,Weekend,Sunny,12.9487,77.6022
+29,Panda Express,Chinese,2.7,27,4,Weekday,Rainy,12.9563,77.5791
+30,Le Pain Quotidien,Healthy,1.9,20,5,Weekend,Sunny,12.9642,77.5937
+31,Outback Steakhouse,American,5.8,58,2,Weekday,Rainy,12.9186,77.5992
+32,The Cheesecake Factory,American,4.7,49,3,Weekend,Cloudy,12.9345,77.6128
+33,Wasabi,Japanese,3.1,32,4,Weekday,Sunny,12.9598,77.5843
+34,Barbeque Nation,Indian,4.8,50,3,Weekend,Rainy,12.9267,77.6094
+35,Pizza Express,Italian,2.4,24,4,Weekday,Cloudy,12.9693,77.5901
+36,Theobroma,Bakery,0.5,8,5,Weekend,Sunny,12.9772,77.5935
+37,Baskin Robbins,Dessert,1.1,14,5,Weekday,Sunny,12.9748,77.5918
+38,The Coffee Bean,Cafe,0.7,10,5,Weekend,Cloudy,12.9759,77.5923
+39,Blue Tokai,Cafe,1.4,16,5,Weekday,Rainy,12.9669,77.5925
+40,Third Wave Coffee Roasters,Cafe,1.7,18,4,Weekend,Sunny,12.9631,77.5912
+41,The Pizza Bakery,Italian,2.2,22,4,Weekday,Cloudy,12.9607,77.5836
+42,The Burger Club,Fast Food,1.5,17,5,Weekend,Rainy,12.9584,77.5809
+43,The Pasta Bar,Italian,3.6,37,3,Weekday,Sunny,12.9456,77.6055
+44,The Sushi Counter,Japanese,4.1,43,3,Weekend,Cloudy,12.9318,77.6156
+45,The Taco Stand,Mexican,2.6,26,4,Weekday,Rainy,12.9524,77.5983
+46,The Falafel Joint,Middle Eastern,1.8,19,5,Weekend,Sunny,12.9673,77.5897
+47,The Ramen Bar,Japanese,3.4,35,4,Weekday,Cloudy,12.9402,77.6084
+48,The Dumpling House,Chinese,2.9,29,4,Weekend,Rainy,12.9367,77.6119
+49,The Ice Cream Shop,Dessert,0.6,9,5,Weekday,Sunny,12.9765,77.5921
+50,The Sandwich Spot,Fast Food,1.2,15,5,Weekend,Cloudy,12.9719,77.5943
